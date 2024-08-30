@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994068044108",
+    "project_id": "creatorhub-10334",
+    "storage_bucket": "creatorhub-10334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994068044108:android:ba64fbf1bc3fcebbea17e9",
+        "android_client_info": {
+          "package_name": "com.example.creatorhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMowdSS2AUt5ryFz-CgZSZe38u875KNLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
